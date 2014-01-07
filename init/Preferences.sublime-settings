@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_line_ending": "unix",
 	"show_line_endings": true,
 	"default_encoding": "UTF-8",
@@ -22,7 +22,7 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 14,
+	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 6,
@@ -33,8 +33,8 @@
 	[
 		80
 	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
