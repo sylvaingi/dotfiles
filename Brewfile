@@ -29,6 +29,7 @@ install imagemagick
 install rename
 install tree
 install pigz
+install nodejs
 
 # Remove outdated versions from the cellar
 cleanup
