@@ -25,6 +25,7 @@ install homebrew/dupes/grep
 # Install other useful binaries
 install ack
 install git
+install git-cola
 install imagemagick
 install rename
 install tree
